@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ua.noskuoptom.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. noskuoptom.com.ua</name>
 
@@ -32,12 +32,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/d6cdf93602d97644fcdaaab79c03f036.png" density="ldpi" />
-        <icon src="res/android/icon/151be7b71948c3bf5ff7a29fe4000ad5.png" density="mdpi" />
-        <icon src="res/android/icon/811e97671170345dfd9082deedbbbb8a.png" density="hdpi" />
-        <icon src="res/android/icon/4e108ee9847dff07ed731ce8695becb3.png" density="xhdpi" />
-        <icon src="res/android/icon/69d49eaa52e76f4b016d02bafbfd81ec.png" density="xxhdpi" />
-        <icon src="res/android/icon/12839ef5e1a110171f07cfdbf4daa3d1.png" density="xxxhdpi" />
+        <icon src="res/android/icon/583239c3b07353d45a47d8181c64cb82.png" density="ldpi" />
+        <icon src="res/android/icon/2831aaab1d93380ab9d519eda2ba1195.png" density="mdpi" />
+        <icon src="res/android/icon/e7962e2e34f9aa52914800cb2f3529cc.png" density="hdpi" />
+        <icon src="res/android/icon/ad1d306bde27ea2d118713be27bfdfcc.png" density="xhdpi" />
+        <icon src="res/android/icon/3f3c524bafdad0821c26545dcf887c0a.png" density="xxhdpi" />
+        <icon src="res/android/icon/af008019e47e775f65921ead9467eb85.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/4848e844f1f6ccdbcaea543550fa028f.png" density="port-hdpi"/>
         <splash src="res/android/screen/3ab7f7a48da38898aed8cdedd40b36a8.png" density="port-ldpi"/>
