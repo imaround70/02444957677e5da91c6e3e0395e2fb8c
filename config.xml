@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ua.noskuoptom.app"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
     <name>noskuoptom.com.ua</name>
 
@@ -46,20 +46,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/129bf4061cac8c6314f091123e5e12a9.png" width="180" height="180" />
-        <icon src="res/ios/icon/f71e77a03d0a8c8632520703871723ab.png" width="60" height="60" />
-        <icon src="res/ios/icon/20f0cee8062e3f06f606ecc341bbd835.png" width="120" height="120" />
-        <icon src="res/ios/icon/50f669188fecdbf26fc5b5986252b601.png" width="76" height="76" />
-        <icon src="res/ios/icon/109108a69ba826421623e6e260c95d1b.png" width="152" height="152" />
-        <icon src="res/ios/icon/ba3524b7570d83d01fb06b039b702c6a.png" width="57" height="57" />
-        <icon src="res/ios/icon/9d9e45b699d0048d19ade87fa8d05970.png" width="114" height="114" />
-        <icon src="res/ios/icon/ef09b1c11bee55a2bb042050fd24a238.png" width="72" height="72" />
-        <icon src="res/ios/icon/03198b05f30e2f006ff31d915fa44487.png" width="144" height="144" />
-        <icon src="res/ios/icon/1ab2b79528ebe3aedf80902f14e61069.png" width="167" height="167" />
-        <icon src="res/ios/icon/038f935eb2f3d220e4a1a9d0164f0990.png" width="29" height="29" />
-        <icon src="res/ios/icon/aa9e3be2ce92e465c11bf5ad5af9d593.png" width="58" height="58" />
-        <icon src="res/ios/icon/8aeed231d40c83099bf63c452e28fa4f.png" width="87" height="87" />
-        <icon src="res/ios/icon/6c76f3046269e8a9cffd4657944a8e09.png" width="167" height="167" />
+        <icon src="res/ios/icon/4871b4a5b4bb8f0f952522be7d14a640.png" width="180" height="180" />
+        <icon src="res/ios/icon/ec05c8d0e6266b9037ee8522fa23195b.png" width="60" height="60" />
+        <icon src="res/ios/icon/6755d7132345d5c5289c5a7ce8b56508.png" width="120" height="120" />
+        <icon src="res/ios/icon/ba0c586ed7cef7231378e5e1accea72a.png" width="76" height="76" />
+        <icon src="res/ios/icon/98377acd45103c2eeb4bf3de9d8bac88.png" width="152" height="152" />
+        <icon src="res/ios/icon/83c9885ed0e2b104ba45141258253698.png" width="57" height="57" />
+        <icon src="res/ios/icon/ea5fc4777243641bce07ccfb34415220.png" width="114" height="114" />
+        <icon src="res/ios/icon/0d6e31ded25121396694bab205077179.png" width="72" height="72" />
+        <icon src="res/ios/icon/60ae808280f775603b97d746b872d525.png" width="144" height="144" />
+        <icon src="res/ios/icon/ddf4edabef72a40c158d1da51cbaafd0.png" width="167" height="167" />
+        <icon src="res/ios/icon/dd5c2edb3cad31e4a1eafb062a538978.png" width="29" height="29" />
+        <icon src="res/ios/icon/c545ef16f3db2c5c7baa6f312c9db482.png" width="58" height="58" />
+        <icon src="res/ios/icon/f5cc1817af5d59f3d597100b3d99a583.png" width="87" height="87" />
+        <icon src="res/ios/icon/a797828922843e2796399cfae288dd7f.png" width="167" height="167" />
 
         <splash src="res/ios/screen/0fd287c946f0cc22172668009e09bf2a.png" />
         <splash src="res/ios/screen/cc1edcb5d5c31f1ffc7377408b53f91e.png" />
